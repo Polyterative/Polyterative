@@ -1,6 +1,6 @@
 ### **Hi there 👋**
 
-### **I'm a UX designer and polyglot artist working in Bologna, Italy.**
+### **I'm a UX engineer and polyglot artist working in Bologna, Italy.**
 
 ### **NOW**
 
