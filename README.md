@@ -10,7 +10,7 @@
 
 ### **BIO**
 
-- 🏢 I'm currently working at **Kantar**
+- 🏢 I'm currently working at **XTEL**
 - ⚙️ I use daily: `.ts`, `.html`, `.scss`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Bologna Modulare and [Eurorack Italy](https://www.facebook.com/groups/eurorack.italia) Communities**
 - 💅 Designed and built: [patcher.xyz](http://patcher.xyz)
